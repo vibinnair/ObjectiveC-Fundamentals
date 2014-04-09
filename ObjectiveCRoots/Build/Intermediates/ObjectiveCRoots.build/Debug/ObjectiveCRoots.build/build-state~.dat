@@ -1,0 +1,172 @@
+TObjectiveCRoots
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.pch ObjectiveCRoots/ObjectiveCRoots-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o /Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/ObjectiveCRoots normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000533E94F5000000000000044C
+t1396610293
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533E94F500000000000001DE
+t1396610293
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533E94F700000000000C9E38
+t1396610295
+s826936
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533E95830000000000000ADC
+t1396610435
+s2780
+
+N/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/ObjectiveCRoots.LinkFileList
+c000000005344F4830000000000000091
+t1397027971
+s145
+
+N/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o
+t1397027976
+s3640
+
+N/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.pch
+t1397027975
+s116848
+
+N/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/ObjectiveCRoots
+t2
+s0
+
+N/Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/ObjectiveCRoots-Prefix.pch
+c000000005344F46900000000000000B6
+t1397027945
+s182
+
+N/Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m
+c000000005344F4690000000000000159
+t1397027945
+s345
+
+CBuild AST from /Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies514e3c032cf5b841^f2d156032cf5b841^---0#1#1#--18"Check dependencies36"E4629EDD-B331-4854-8B56-ABEEC34762F3-
+
+CCompileC Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o /Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418720775.631152
+e418720776.119947
+r1
+xCompileC
+xBuild/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o
+x/Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m200"CompileC Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o ObjectiveCRoots/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc3b6a1072cf5b841^b7b41e082cf5b841^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m0000000000000000^3479"CompileC Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o ObjectiveCRoots/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/v2team/Documents/Vibin/ObjectiveCRoots    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/v2team/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-generated-files.hmap -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-own-target-headers.hmap -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-all-target-headers.hmap -iquote /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-project-headers.hmap -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/DerivedSources/x86_64 -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/DerivedSources -F/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug -include /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch -MMD -MT dependencies -MF /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.dia -c /Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/main.m -o /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o36"C92BB5E8-0EA5-44A9-ABD4-B1A540F2801F-
+b1BD8606F-3750-4E49-9042-6693E5F0BD9B
+
+CLd /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/ObjectiveCRoots normal x86_64
+s418720776.128749
+e418720779.891500
+r1
+xLd
+x/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/ObjectiveCRoots
+xnormal
+xx86_64
+d/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/ObjectiveCRoots.LinkFileList
+d/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Link /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/ObjectiveCRoots53"Ld Build/Products/Debug/ObjectiveCRoots normal x86_642c1021082cf5b841^c93ae40b2cf5b841^---0#0#1#--1056"Ld Build/Products/Debug/ObjectiveCRoots normal x86_64    cd /Users/v2team/Documents/Vibin/ObjectiveCRoots    export MACOSX_DEPLOYMENT_TARGET=10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug -F/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug -filelist /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/ObjectiveCRoots.LinkFileList -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Foundation -Xlinker -dependency_info -Xlinker /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/Objects-normal/x86_64/ObjectiveCRoots_dependency_info.dat -o /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/ObjectiveCRoots36"643009ED-1C9D-4930-8E47-D67D358DF684-
+b1BD8606F-3750-4E49-9042-6693E5F0BD9B
+
+CProcessPCH /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.pch ObjectiveCRoots/ObjectiveCRoots-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418720771.403825
+e418720775.621198
+r1
+xProcessPCH
+x/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.pch
+xObjectiveCRoots/ObjectiveCRoots-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/ObjectiveCRoots-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile ObjectiveCRoots/ObjectiveCRoots-Prefix.pch245"ProcessPCH Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.pch ObjectiveCRoots/ObjectiveCRoots-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere5ee6b032cf5b841^2d069f072cf5b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/ObjectiveCRoots-Prefix.pch0000000000000000^3443"ProcessPCH Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.pch ObjectiveCRoots/ObjectiveCRoots-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/v2team/Documents/Vibin/ObjectiveCRoots    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/v2team/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-generated-files.hmap -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-own-target-headers.hmap -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-all-target-headers.hmap -iquote /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/ObjectiveCRoots-project-headers.hmap -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/DerivedSources/x86_64 -I/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/ObjectiveCRoots.build/Debug/ObjectiveCRoots.build/DerivedSources -F/Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Products/Debug --serialize-diagnostics /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.dia -MMD -MT dependencies -MF /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.d -c /Users/v2team/Documents/Vibin/ObjectiveCRoots/ObjectiveCRoots/ObjectiveCRoots-Prefix.pch -o /Users/v2team/Documents/Vibin/ObjectiveCRoots/Build/Intermediates/PrecompiledHeaders/ObjectiveCRoots-Prefix-ghuwlzkdppppjpbcakqslhuzglxi/ObjectiveCRoots-Prefix.pch.pch36"025D88B2-08F5-4655-BA61-9A23BC262BB3-
+b1BD8606F-3750-4E49-9042-6693E5F0BD9B
+
+CProcessPCH /Users/v2team/Library/Developer/Xcode/DerivedData/ObjectiveCRoots-adaflkyvcypudxbjwyptjcgxgnlo/Index/PrecompiledHeaders/ObjectiveCRoots-Prefix-egnebgbedbvddifgssdtxvamrikd_ast/ObjectiveCRoots-Prefix.pch.pch ObjectiveCRoots/ObjectiveCRoots-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
