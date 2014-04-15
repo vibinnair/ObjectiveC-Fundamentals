@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5053" systemVersion="12F45" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="2qc-lb-Y2b">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5053" systemVersion="13A603" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="2qc-lb-Y2b">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
@@ -21,7 +21,7 @@
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <prototypes>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="MyRecipe" textLabel="o0J-pc-Fs5" detailTextLabel="QsS-7b-tlS" style="IBUITableViewCellStyleValue1" id="mmA-BQ-AyC">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" textLabel="o0J-pc-Fs5" detailTextLabel="QsS-7b-tlS" style="IBUITableViewCellStyleValue1" id="mmA-BQ-AyC">
                                         <rect key="frame" x="0.0" y="119" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="mmA-BQ-AyC" id="TkF-eC-DGb">
@@ -46,6 +46,10 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                 </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="dFR-yO-xTh" id="A9g-7W-BxP"/>
+                                    <outlet property="delegate" destination="dFR-yO-xTh" id="qNC-Sz-jWA"/>
+                                </connections>
                             </tableView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -57,10 +61,13 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outlet property="tableView" destination="dv6-a4-yuX" id="4jr-gX-l9j"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="YSK-QR-YF4" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="558" y="90"/>
+            <point key="canvasLocation" x="546" y="90"/>
         </scene>
         <!--Device Detail View Controller-->
         <scene sceneID="Lar-3o-DtU">
@@ -79,8 +86,16 @@
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                                 <items>
                                     <navigationItem title="Title" id="oco-dF-2ej">
-                                        <barButtonItem key="leftBarButtonItem" title="Item" systemItem="cancel" id="doi-Uy-XJI"/>
-                                        <barButtonItem key="rightBarButtonItem" title="Item" systemItem="save" id="h7x-G9-vX1"/>
+                                        <barButtonItem key="leftBarButtonItem" title="Item" systemItem="cancel" id="doi-Uy-XJI">
+                                            <connections>
+                                                <action selector="cancel:" destination="Baw-P5-Egf" id="fWQ-bw-fIo"/>
+                                            </connections>
+                                        </barButtonItem>
+                                        <barButtonItem key="rightBarButtonItem" title="Item" systemItem="save" id="h7x-G9-vX1">
+                                            <connections>
+                                                <action selector="save:" destination="Baw-P5-Egf" id="Tck-qm-bOV"/>
+                                            </connections>
+                                        </barButtonItem>
                                     </navigationItem>
                                 </items>
                             </navigationBar>
@@ -105,6 +120,12 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
+                    <navigationItem key="navigationItem" id="Lla-Xe-plH"/>
+                    <connections>
+                        <outlet property="companyTextField" destination="QHm-Gs-BoE" id="dG0-6n-SQG"/>
+                        <outlet property="nameTextField" destination="uHo-PQ-jGJ" id="35J-r6-KSz"/>
+                        <outlet property="versionTextField" destination="W2J-yN-OcI" id="FcN-Xm-dIV"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ymO-LB-Bwm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -121,7 +142,7 @@
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
-                        <segue destination="dFR-yO-xTh" kind="relationship" relationship="rootViewController" id="8GD-01-voo"/>
+                        <segue destination="dFR-yO-xTh" kind="relationship" relationship="rootViewController" id="Mql-gn-9Hk"/>
                     </connections>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cO0-5P-JKt" userLabel="First Responder" sceneMemberID="firstResponder"/>

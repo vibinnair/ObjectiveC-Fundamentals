@@ -466,6 +466,7 @@
 				22AADFF018F6C168008D78C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22AADFF118F6C168008D78C4 /* Build configuration list for PBXNativeTarget "MyStoreTests" */ = {
 			isa = XCConfigurationList;
@@ -474,6 +475,7 @@
 				22AADFF318F6C168008D78C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

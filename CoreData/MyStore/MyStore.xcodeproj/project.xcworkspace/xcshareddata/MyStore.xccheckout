@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AAEE6A8A-88AF-472A-971B-3F27A066AF09</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyStore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B5B8D440-1F51-46C4-9C40-4E4598103CF5</key>
+		<string>https://github.com/vibinnair/ObjectiveC-Fundamentals.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreData/MyStore/MyStore.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B5B8D440-1F51-46C4-9C40-4E4598103CF5</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vibinnair/ObjectiveC-Fundamentals.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B5B8D440-1F51-46C4-9C40-4E4598103CF5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B5B8D440-1F51-46C4-9C40-4E4598103CF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjectiveC-Fundamentals</string>
+		</dict>
+	</array>
+</dict>
+</plist>

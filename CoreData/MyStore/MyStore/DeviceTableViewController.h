@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DeviceTableViewController : UITableViewController
+@interface DeviceTableViewController : UIViewController<UITableViewDataSource, UITableViewDelegate>
+@property (strong) NSArray* devices;
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
 
 @end
